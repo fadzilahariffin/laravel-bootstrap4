@@ -1,5 +1,5 @@
 
-## Ismet References
+## References
  How to install
 
 - git clone https://github.com/fadzilahariffin/laravel-bootstrap4.git
